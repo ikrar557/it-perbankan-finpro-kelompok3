@@ -7,5 +7,5 @@
 6. TanTamarine Myrna
 7. Ufairah Damara
 8. Ichsan Ainul Fikri
-9. Alpin Apriliansyah
+9. Alpin Apriliansyah Mohsa
 10. M Irfansyah
