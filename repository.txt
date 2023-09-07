@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://github.com/ikrar557/it-perbankan-finpro-kelompok3
 =======
 https://github.com/ikrar557/it-perbankan-finpro-kelompok3.git
 >>>>>>> ddfc95d7d8d1d0b53b0650bcd37f6921682398e9
+=======
+https://github.com/ikrar557/it-perbankan-finpro-kelompok3
+>>>>>>> 8c18516d31d9b7b6d9f089fedf61085ea3f6b655
