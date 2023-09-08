@@ -3,7 +3,7 @@
 2. Ikrar Bagaskara
 3. Eriyana Azhara
 4. Alya Fitri Nurhaliza
-5. Rahayu Ningrum P
+5. Rahayu Ningrum Puspa Ridha
 6. TanTamarine Myrna
 7. Ufairah Damara
 8. Ichsan Ainul Fikri
