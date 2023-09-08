@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://github.com/ikrar557/it-perbankan-finpro-kelompok3
+=======
+https://github.com/ikrar557/it-perbankan-finpro-kelompok3/tree/Alya-homework
+>>>>>>> d3c11e27c1b6a24c6372b76f28f79d88334fdc52
